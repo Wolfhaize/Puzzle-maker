@@ -61,5 +61,3 @@ Editor features
 - Building / exporting HTML file with the game
 - Moving multiple blocks in one move
 - Drag and Drop upload image
-
-https://user-images.githubusercontent.com/13263198/137487556-f4ccb712-7d6f-4178-baee-9473e0352db5.gif)
