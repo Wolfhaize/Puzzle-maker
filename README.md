@@ -1,4 +1,4 @@
-![Simple 15 puzzle game javascript HTML](https://repository-images.githubusercontent.com/387269543/be595743-c52e-41f0-a40c-3cedce7908a1)
+
 
 # Puzzle maker for HTML 
 
